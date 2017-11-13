@@ -1,4 +1,4 @@
-<form method="POST" action="/forester/first_point/">
+<form method="POST" action="/first_point/">
 	<fieldset class="floating-box">
 		<legend>Pocetno teme i broj temena</legend>
 		<table>

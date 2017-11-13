@@ -1,4 +1,4 @@
-<form method="GET" action="/forester/start_up/">
+<form method="GET" action="/start_up/">
 	<fieldset class="floating-box">
 		<legend>GRESKA</legend>
 		<table>

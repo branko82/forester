@@ -1,4 +1,4 @@
-<form method="POST" action="/forester/seventh_point/">
+<form method="POST" action="/seventh_point/">
 	<fieldset class="floating-box">
 		<legend>Tacka 6 od ${totalNumber} </legend>
 		<table>
