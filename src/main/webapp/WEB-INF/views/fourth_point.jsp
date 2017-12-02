@@ -1,4 +1,4 @@
-<form method="POST" action="/fifth_point/">
+<form method="POST" action="/fifth_point/" autocomplete="off">
 	<fieldset class="floating-box">
 		<legend>Tacka 4 od ${totalNumber} </legend>
 		<table>
